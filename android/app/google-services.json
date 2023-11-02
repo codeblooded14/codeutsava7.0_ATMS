@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007800816348",
+    "project_id": "greentruck-860d2",
+    "storage_bucket": "greentruck-860d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007800816348:android:fe8640cf84380f03f6da19",
+        "android_client_info": {
+          "package_name": "com.example.groceryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIUInZfr5RVv3Lm_8DOK9gobmA2FKWPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
